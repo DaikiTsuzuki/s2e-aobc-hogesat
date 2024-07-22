@@ -2,6 +2,8 @@
  [![check format](https://github.com/ut-issl/s2e-aobc/actions/workflows/check-format.yml/badge.svg)](https://github.com/ut-issl/s2e-aobc/actions/workflows/check-format.yml)
 [![Build](https://github.com/ut-issl/s2e-aobc/actions/workflows/build.yml/badge.svg)](https://github.com/ut-issl/s2e-aobc/actions/workflows/build.yml)
 
+https://github.com/DaikiTsuzuki/spacecraft-simulation
+
 ## Overview
 
 - S2E-AOBC is the user-side repository of the S2E for the AOCS module developed by ISSL/UT, Seiren, and JAXA.

@@ -2,7 +2,7 @@
  [![check format](https://github.com/ut-issl/s2e-aobc/actions/workflows/check-format.yml/badge.svg)](https://github.com/ut-issl/s2e-aobc/actions/workflows/check-format.yml)
 [![Build](https://github.com/ut-issl/s2e-aobc/actions/workflows/build.yml/badge.svg)](https://github.com/ut-issl/s2e-aobc/actions/workflows/build.yml)
 
-https://github.com/DaikiTsuzuki/spacecraft-simulation
+シミュレーションのやりかたは[こちら](https://github.com/DaikiTsuzuki/spacecraft-simulation)
 
 ## Overview
 
